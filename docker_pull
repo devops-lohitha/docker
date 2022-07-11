@@ -1,0 +1,23 @@
+go to hub.docker 
+
+docker pull nginx:latest
+
+docker images
+
+docker ru -d --name nginx -p 80:80 nginx:latest
+
+docker ps
+
+
+docker ps -a
+
+docker restart
+
+docker stop
+
+docker rm (name)  delete container
+
+
+docker rmi (name)   delete images
+
+docker exec -it (name) bash  ls  we can see list of all elements)   exit
