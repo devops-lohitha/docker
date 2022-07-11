@@ -1,0 +1,11 @@
+
+docker  tag
+
+docker tag image id saii90(username)/my images(anyname)
+
+
+
+push docker images to hub
+
+
+docker push saii90(username)/myimages(anyname):latest
