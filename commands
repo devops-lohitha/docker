@@ -1,0 +1,6 @@
+https://docs.docker.com/engine/reference/commandline/docker/
+
+docker inspect (container name or id)  enter
+
+docker top (container name)
+
